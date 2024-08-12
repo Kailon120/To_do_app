@@ -1,0 +1,10 @@
+{
+    "files": [
+        "addtask.py",
+        "addtask.ui",
+        "list_item_widget.py",
+        "mainwindow.py",
+        "mainwindow.ui",
+        "routes.py"
+    ]
+}
